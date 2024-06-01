@@ -13,7 +13,7 @@ key steps:
 7. saving the model
 
 
-with the attached notebook I acheived the 9th place in the private leaderboard.
+with the attached notebook I achieved  the 9th place in the private leaderboard.
 I hope you enjoy.
 
 
